@@ -1,0 +1,6 @@
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\bin\x86\Debug\SearchEngineProject.exe.config
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\bin\x86\Debug\simplewiki-latest-pages-articles_1.xml
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\bin\x86\Debug\SearchEngineProject.exe
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\bin\x86\Debug\SearchEngineProject.pdb
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\obj\x86\Debug\SearchEngineProject.exe
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\obj\x86\Debug\SearchEngineProject.pdb

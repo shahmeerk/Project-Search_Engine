@@ -1,0 +1,9 @@
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\bin\Debug\SearchEngineProject.exe.config
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\bin\Debug\simplewiki-latest-pages-articles_1.xml
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\bin\Debug\SearchEngineProject.exe
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\bin\Debug\SearchEngineProject.pdb
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\obj\Debug\SearchEngineProject.csprojResolveAssemblyReference.cache
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\obj\Debug\SearchEngineProject.exe
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\obj\Debug\SearchEngineProject.pdb
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\obj\Debug\SearchEngineProject.Form1.resources
+C:\Users\shahm\Documents\semester3\data_structures\project\Code\SearchEngineProject\SearchEngineProject\obj\Debug\SearchEngineProject.csproj.GenerateResource.Cache
